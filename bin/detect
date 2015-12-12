@@ -1,2 +1,4 @@
+#!/usr/bin/env bash
+
 echo "Blank Buildpack - Detecting"
 exit 0
